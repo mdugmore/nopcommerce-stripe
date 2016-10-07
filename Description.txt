@@ -1,0 +1,8 @@
+﻿Group: Payment methods
+FriendlyName: Stripe Payment
+SystemName: Payments.Stripe
+Version: 0.1
+SupportedVersions: 3.60
+Author: Michael Dugmore
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.Stripe.dll
